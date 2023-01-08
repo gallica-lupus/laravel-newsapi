@@ -9,7 +9,7 @@ Documentation for the API can be found [here](https://newsapi.org/docs)
 ```json
 {
   "require": {
-    "kirill-latish/laravel-newsapi": "^1.0"
+    "gallica-lupus/laravel-newsapi": "^1.0"
   }
 }
 ```
